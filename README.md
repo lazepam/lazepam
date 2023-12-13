@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Software Testing
 - 📫 How to reach me: lazepam@gmail.com
-- 💬 Ask me about Cucumber, Java, Python, TestNG, Junit, Appium, Postman, Jmeter, Jenkins so on.
+- 💬 Ask me about Cucumber, Appium, Java, Python, TestNG, Junit, Postman, Jmeter, Jenkins so on.
 
 <!--
 **lazepam/lazepam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
