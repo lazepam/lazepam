@@ -4,6 +4,9 @@
 - 🔭 I’m currently working on Software Testing
 - 📫 How to reach me: lazepam@gmail.com
 - 💬 Ask me about Cucumber, Appium, Java, Python, TestNG, Junit, Postman, Jmeter, Jenkins so on.
+<a href="https://www.linkedin.com/in/mattderya/" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
 
 <!--
 **lazepam/lazepam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
