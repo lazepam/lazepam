@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Software Testing
+- 🔭 I’m currently working on 
 - 📫 How to reach me: mattderya@gmail.com
-- 💬 Ask me about Cucumber, Appium, Java, Python, TestNG, Junit, Postman, Jmeter, Jenkins so on.
+- 💬 Ask me about 
 <a href="https://www.linkedin.com/in/mattderya/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
