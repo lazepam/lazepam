@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on 
-- 📫 How to reach me: mattderya@gmail.com
+- 📫 How to reach me: deryatech@gmail.com
 - 💬 Ask me about 
 <a href="https://www.linkedin.com/in/mattderya/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
