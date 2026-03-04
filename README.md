@@ -3,7 +3,7 @@
 <!-- HEADER / BANNER -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Data Stream Animation"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" alt="Data Stream Animation"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Matt Derya</strong></h1>
