@@ -3,13 +3,12 @@
 <!-- HEADER / BANNER -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" alt="Data Stream Animation"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Data Stream Animation"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Matt Derya</strong></h1>
 <h3 align="center">Senior Data Scientist | GenAI & LLM Specialist | AI/ML Lead</h3>
 
----
 
 ## 🧠 About Me
 
@@ -22,7 +21,6 @@ Proven ability to lead teams, mentor data scientists, and drive business decisio
 - ☁️ Deploying ML models to production with **CI/CD pipelines on AWS**
 - 📫 Reach me at: **mattderya@gmail.com**
 
----
 
 ## 🌐 Connect With Me
 
@@ -30,7 +28,6 @@ Proven ability to lead teams, mentor data scientists, and drive business decisio
 |:--:|:--:|
 | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/matt-derya) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/lazepam) |
 
----
 
 ## 🚀 AI / ML Stack
 
@@ -40,7 +37,6 @@ Proven ability to lead teams, mentor data scientists, and drive business decisio
 
 **GenAI & LLM:** LangChain · LangGraph · RAG · Agentic AI · OpenAI · Claude · NLP · Transfer Learning · Computer Vision · CNN · LSTM
 
----
 
 ## 📊 Data & Visualization
 
@@ -48,7 +44,6 @@ Proven ability to lead teams, mentor data scientists, and drive business decisio
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/> | <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/> |
 
----
 
 ## ☁️ Cloud & DevOps
 
@@ -58,7 +53,6 @@ Proven ability to lead teams, mentor data scientists, and drive business decisio
 
 **AWS Services:** EC2 · SageMaker
 
----
 
 ## 🏆 Key Achievements
 
@@ -68,7 +62,6 @@ Proven ability to lead teams, mentor data scientists, and drive business decisio
 - 💊 **25–30% model performance gains** — Pharmaceutical domain features (DDI, ADME, PK)
 - 🏅 **75% market share** — Data-driven pricing & competitive analysis at OctaPharma
 
----
 
 ## 🎓 Education
 
@@ -78,7 +71,6 @@ Proven ability to lead teams, mentor data scientists, and drive business decisio
 | M.S. Clinical Pharmacy & Pharmacotherapy | University of Marmara, Istanbul | 2017 |
 | B.S. Pharmacy | University of Hacettepe, Ankara | 2006 |
 
----
 
 ## 📈 GitHub Stats
 
@@ -87,6 +79,5 @@ Proven ability to lead teams, mentor data scientists, and drive business decisio
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazepam&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
----
 
 ⭐️ *Thanks for visiting my profile! Let's build something impactful together.*
