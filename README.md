@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-Senior Data Scientist with **15+ years of pharmaceutical industry experience** and **6+ years of hands-on AI/ML** building production GenAI solutions.  
+Senior Data Scientist with **20+ years of pharmaceutical industry experience** and **6+ years of hands-on AI/ML** building production GenAI solutions.  
 Expert in **LLMs, LangChain, RAG, CNN, LSTM and Agentic AI** — delivering 90% cost savings and 40% productivity gains.  
 Proven ability to lead teams, mentor data scientists, and drive business decisions through advanced analytics and IQVIA pharmaceutical market insights.
 
